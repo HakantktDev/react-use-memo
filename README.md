@@ -1,1 +1,1 @@
-# react-component-updates-in-action
+# react-using-memo
